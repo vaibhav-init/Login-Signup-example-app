@@ -23,10 +23,8 @@ flutter pub get
 Step 4: Open in your preferred code editor or IDE eg. VS code or Android Studio :)
 
 ## Screenshots
-<img src="https://i.ibb.co/2yKY04b/1.jpg" width="300" height="600">
-<img src="https://i.ibb.co/fCK6Mc8/2.jpg" width="300" height="600">
-<img src="https://i.ibb.co/Q6dyz76/3.jpg" width="300" height="600">
-<img src="https://i.ibb.co/GT5CGB5/4.jpg" width="300" height="600">
+<img src="https://i.ibb.co/2yKY04b/1.jpg" width="300" height="600"> <img src="https://i.ibb.co/fCK6Mc8/2.jpg" width="300" height="600">
+<img src="https://i.ibb.co/Q6dyz76/3.jpg" width="300" height="600"> <img src="https://i.ibb.co/GT5CGB5/4.jpg" width="300" height="600">
 
 
 
